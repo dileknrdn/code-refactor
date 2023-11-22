@@ -2,7 +2,7 @@
 From non-semantic to accessible! 
 ## Description
 
-This project's purpose was to refactor a web page so taht HTML elements are consolidated and semantic, and DRY code principle is reflected in CSS.
+This project's purpose was to refactor a web page so that HTML elements are consolidated and semantic, and DRY code principle is reflected in CSS.
 And to optimize the code for search engines.
 
 
