@@ -20,7 +20,10 @@ I will add some screenshots below so you can see the difference between.
 
 ## Deployment Link
 
-[Horiseon](https://dileknrdn.github.io/code-refactor/)
+(https://dileknrdn.github.io/code-refactor/)
 
 ## Author
-by: Dilek Nuredin
+
+Dilek Nuredin
+
+https://github.com/dileknrdn/code-refactor 
